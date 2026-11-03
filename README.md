@@ -61,3 +61,4 @@
     </tr>
 </table>
 
+- [Hardware list (Google Sheets)](https://docs.google.com/spreadsheets/d/1FCBhs3uDbg3CHKJ4OMjfJk9e2ZhJSoWWeweFUG3quUQ/edit?gid=1523015448#gid=1523015448)
