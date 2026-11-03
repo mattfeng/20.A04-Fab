@@ -25,24 +25,39 @@
 
 <table>
     <tr>
+        <th>Project</th>
+        <th>Video</th>
+        <th>Documentation</th>
+    </tr>
+    <tr>
         <td>Butterfly hair clip</td>
         <td>https://www.youtube.com/shorts/0QPzJnDN6nI</td>
+        <td></td>
     </tr>
     <tr>
         <td>Digital screen hair clip</td>
         <td>https://www.youtube.com/watch?v=v9yjCPrvwWQ</td>
+        <td></td>
     </tr>
     <tr>
         <td>Micro-FPV drone</td>
         <td>https://www.youtube.com/watch?v=4nRgEmdwtJo</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Quadropod (Sesame)</td>
+        <td>https://www.youtube.com/watch?v=1UDsWkcQZhc</td>
+        <td>https://github.com/dorianborian/sesame-robot/</td>
     </tr>
     <tr>
         <td>Hexapod</td>
         <td>https://www.youtube.com/watch?v=VC1T4whJ0OY</td>
+        <td></td>
     </tr>
     <tr>
         <td>Paper airplane</td>
         <td>https://www.amazon.com/dp/B08JLZVB3Z</td>
+        <td></td>
     </tr>
 </table>
 
