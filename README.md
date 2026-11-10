@@ -142,7 +142,12 @@
     </tr>
     <tr>
         <td>Quadropod (Sesame)</td>
-        <td>https://www.youtube.com/watch?v=1UDsWkcQZhc</td>
+        <td>
+            <ul>
+                <li>Original: https://www.youtube.com/watch?v=1UDsWkcQZhc</li>
+                <li>Drone version: https://www.youtube.com/watch?v=9K6GmO5QFN4</li>
+            </ul>
+        </td>
         <td>https://github.com/dorianborian/sesame-robot/</td>
     </tr>
     <tr>
